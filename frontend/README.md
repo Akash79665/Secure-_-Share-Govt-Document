@@ -84,7 +84,7 @@ A secure, full-stack web application for managing and storing personal documents
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Akash79665/Secure-_-Share-Govt-Document.git
 cd digital-document-locker
 ```
 
@@ -514,8 +514,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/Akash79665/Secure-_-Share-Govt-Document.git
+- Email: apturkhade@gmail.com
 
 ## 🙏 Acknowledgments
 
