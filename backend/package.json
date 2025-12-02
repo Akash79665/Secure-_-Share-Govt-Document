@@ -13,7 +13,7 @@
     "mongodb",
     "nodejs"
   ],
-  "author": "Your Name",
+  "author": "Akash Turkhade",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
