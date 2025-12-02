@@ -483,19 +483,20 @@ NODE_ENV=production npm start
    - Unique tokens per share
    - Automatic expiry
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 ### Dashboard
-*(Add screenshot of your dashboard here)*
+![Dashboard](screenshots/Dashboard.png)
 
 ### Document Upload
-*(Add screenshot of upload page here)*
+![Document Upload](screenshots/Document%20Upload.png)
 
 ### Document List
-*(Add screenshot of document list here)*
+![Document List](screenshots/Document%20List.png)
 
 ### Document Sharing
-*(Add screenshot of share feature here)*
+![Document Sharing](screenshots/Document%20Sharing.png)
+
 
 ## 🤝 Contributing
 
