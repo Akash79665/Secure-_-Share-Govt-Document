@@ -513,7 +513,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Your Name**
+- Name: Akash Turkhade 
 - GitHub: https://github.com/Akash79665/Secure-_-Share-Govt-Document.git
 - Email: apturkhade@gmail.com
 
