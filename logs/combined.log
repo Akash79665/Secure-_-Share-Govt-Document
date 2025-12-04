@@ -211,3 +211,21 @@
 {"level":"info","message":"Document retrieved: Adhar Card by aashu@gmail.com","service":"digital-locker","timestamp":"2025-12-02 21:45:48"}
 {"level":"info","message":"Server running on port 5000","service":"digital-locker","timestamp":"2025-12-02 21:54:13"}
 {"level":"info","message":"MongoDB Connected: localhost","service":"digital-locker","timestamp":"2025-12-02 21:54:14"}
+{"level":"info","message":"Server running on port 5000","service":"digital-locker","timestamp":"2025-12-04 09:58:42"}
+{"ip":"::1","level":"info","message":"GET /api/documents","service":"digital-locker","timestamp":"2025-12-04 10:00:52","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"error","message":"Authentication error: invalid signature","service":"digital-locker","timestamp":"2025-12-04 10:00:52"}
+{"ip":"::1","level":"info","message":"GET /api/documents","service":"digital-locker","timestamp":"2025-12-04 10:00:52","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"error","message":"Authentication error: invalid signature","service":"digital-locker","timestamp":"2025-12-04 10:00:52"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","service":"digital-locker","timestamp":"2025-12-04 10:01:20","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"warn","message":"Login attempt for non-existent user: aashu@gmail.com","service":"digital-locker","timestamp":"2025-12-04 10:01:20"}
+{"ip":"::1","level":"info","message":"POST /api/auth/register","service":"digital-locker","timestamp":"2025-12-04 10:02:05","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"User registered: aashu@gmail.com, OTP: 123456","service":"digital-locker","timestamp":"2025-12-04 10:02:05"}
+{"ip":"::1","level":"info","message":"POST /api/auth/verify-otp","service":"digital-locker","timestamp":"2025-12-04 10:02:13","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"User verified successfully: aashu@gmail.com","service":"digital-locker","timestamp":"2025-12-04 10:02:13"}
+{"ip":"::1","level":"info","message":"GET /api/documents","service":"digital-locker","timestamp":"2025-12-04 10:02:13","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"User authenticated: aashu@gmail.com","service":"digital-locker","timestamp":"2025-12-04 10:02:13"}
+{"level":"info","message":"Documents retrieved for user aashu@gmail.com: 0 documents","service":"digital-locker","timestamp":"2025-12-04 10:02:13"}
+{"ip":"::1","level":"info","message":"GET /api/documents","service":"digital-locker","timestamp":"2025-12-04 10:02:13","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"User authenticated: aashu@gmail.com","service":"digital-locker","timestamp":"2025-12-04 10:02:13"}
+{"level":"info","message":"Documents retrieved for user aashu@gmail.com: 0 documents","service":"digital-locker","timestamp":"2025-12-04 10:02:13"}
+{"level":"info","message":"Server running on port 5000","service":"digital-locker","timestamp":"2025-12-04 10:05:14"}

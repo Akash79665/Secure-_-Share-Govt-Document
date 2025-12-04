@@ -45,7 +45,6 @@ const documentSchema = new mongoose.Schema({
     type: String,
     unique: true,
     sparse: true
-    // ✅ REMOVED "index: true" - already defined in schema.index() below
   },
   shareExpiry: {
     type: Date
@@ -71,6 +70,6 @@ const documentSchema = new mongoose.Schema({
 
 // Index for faster queries
 documentSchema.index({ user: 1, category: 1 });
-documentSchema.index({ shareToken: 1 }, { unique: true, sparse: true });
+
 
 module.exports = mongoose.model('Document', documentSchema);
